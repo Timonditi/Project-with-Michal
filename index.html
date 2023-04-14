@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Property Search Form</title>
+	<link rel="stylesheet" href="index.css">
+</head>
+<body>
+	<form id="property-search">
+		<label for="location">Location:</label>
+		<select id="location" name="location">
+			<option value="All locations">All locations</option>
+			<option value="Kileleshwa">Kileleshwa</option>
+			<option value="Karen">Karen</option>
+			<option value="Kasarani">Kasarani</option>
+			<option value="Jamhuri">Jamhuri</option>
+			<option value="Utawala">Utawala</option>
+		</select><br>
+		
+		<label for="price">Price:</label>
+		<input type="range" id="price" name="price" min="0" max="100000" step="1000"><br>
+		<span id="price-output">$0</span>
+		
+		<label for="buy">Buy</label>
+		<input type="radio" id="buy" name="buy" value="buy">
+		<label for="Rent">Rent</label>
+		<input type="radio" id="rent" name="Rent" value="rent">
+		
+		<input type="submit" value="Search">
+	</form>
+
+	<div id="propertyList"></div>
+
+	<script src="index.js"></script>
+</body>
+</html>

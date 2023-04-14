@@ -1,0 +1,104 @@
+{
+  "locations": [
+    {
+      "name": "Kileleshwa",
+      "houses": [
+        {
+          "type": "2 bedroom apartment",
+          "price": "$10,000",
+          "address": "123 Main Street, Kileleshwa"
+        },
+        {
+          "type": "3 bedroom apartment",
+          "price": "$15,000",
+          "address": "456 Park Avenue, Kileleshwa"
+        },
+        {
+          "type": "4 bedroom villa",
+          "price": "$35,000",
+          "address": "789 Broadway Street, Kileleshwa"
+        }
+      ]
+    },
+    {
+      "name": "Karen",
+      "houses": [
+        {
+          "type": "1 bedroom apartment",
+          "price": "$75,000",
+          "address": "123 Main Street, Karen"
+        },
+        {
+          "type": "2 bedroom apartment",
+          "price": "$12,000",
+          "address": "456 Park Avenue, Karen"
+        },
+        {
+          "type": "3 bedroom villa",
+          "price": "$30,000",
+          "address": "789 Broadway Street, Karen"
+        }
+      ]
+    },
+    {
+      "name": "Kasarani",
+      "houses": [
+        {
+          "type": "2 bedroom apartment",
+          "price": "$80,000",
+          "address": "123 Main Street, Kasarani"
+        },
+        {
+          "type": "3 bedroom apartment",
+          "price": "$20,000",
+          "address": "456 Park Avenue, Kasarani"
+        },
+        {
+          "type": "4 bedroom villa",
+          "price": "$20,000",
+          "address": "789 Broadway Street, Kasarani"
+        }
+      ]
+    },
+    {
+      "name": "Jamhuri",
+      "houses": [
+        {
+          "type": "1 bedroom apartment",
+          "price": "$70,000",
+          "address": "123 Main Street, Jamhuri"
+        },
+        {
+          "type": "2 bedroom apartment",
+          "price": "$10,000",
+          "address": "456 Park Avenue, Jamhuri"
+        },
+        {
+          "type": "3 bedroom villa",
+          "price": "$80,000",
+          "address": "789 Broadway Street, Jamhuri"
+        }
+      ]
+    },
+    {
+      "name": "Utawal",
+      "houses": [
+        {
+          "type": "2 bedroom apartment",
+          "price": "$90,000",
+          "address": "123 Main Street, Utawal"
+        },
+        {
+          "type": "3 bedroom apartment",
+          "price": "$40,000",
+          "address": "456 Park Avenue, Utawal"
+        },
+        {
+          "type": "4 bedroom villa",
+          "price": "$80,000",
+          "address": "789 Broadway Street, Utawal"
+        }
+      ]
+    }
+  ]
+}
